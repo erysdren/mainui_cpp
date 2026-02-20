@@ -59,7 +59,7 @@ EMPTY_STRINGS_100, // 250..349
 EMPTY_STRINGS_50, // 350..399
 "Find more about Valve's product lineup",	// 400
 EMPTY_STRINGS_1, // 401
-"http://store.steampowered.com/app/70/", // 402
+"https://www.gunmanchronicles.com/", // 402
 EMPTY_STRINGS_5, // 403..407
 EMPTY_STRINGS_2, // 408..409
 EMPTY_STRINGS_100, // 410..509
